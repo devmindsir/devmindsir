@@ -34,15 +34,5 @@
 
 ## 🤝 Collaborating
 
-<div style="border: 2px solid #FF4500; border-radius: 15px; padding: 20px; background-color: #fff8dc; text-align: center; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); animation: pulse 2s infinite;">
-    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Coffee Cup" style="width: 50px; vertical-align: middle; margin-right: 10px;"/>
-    <h3 style="color: #FF4500; font-family: 'Arial', sans-serif; display: inline;">I'm open to collaborating on interesting projects as a web developer</h3>
-</div>
+### 🤝 I'm open to collaborating on interesting projects as a web developer
 
-<style>
-@keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-}
-</style>
