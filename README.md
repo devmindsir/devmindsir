@@ -30,8 +30,6 @@
 | ![TypeScript](https://img.shields.io/badge/TypeScript-50%25-007acc?style=flat-square) | ![Node.js](https://img.shields.io/badge/Node.js-40%25-339933?style=flat-square)              | ![Angular](https://img.shields.io/badge/Angular-30%25-ff2d20?style=flat-square)     | ![wordpress](https://img.shields.io/badge/wordpress-90%25-06b6d4?style=flat-square) |
 
 <br>
-<br>
-
 ## 🤝 Collaborating
 
 ### 🤝 I'm open to collaborating on interesting projects as a web developer
