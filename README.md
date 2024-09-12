@@ -29,7 +29,7 @@
 | ![jQuery](https://img.shields.io/badge/jQuery-90%25-0769ad?style=flat-square)         | ![React](https://img.shields.io/badge/React-70%25-61dafb?style=flat-square)                  | ![Vue.js](https://img.shields.io/badge/Vue.js-70%25-42b883?style=flat-square)       | ![RestAPI](https://img.shields.io/badge/RestAPI-70%25-005cc5?style=flat-square)     |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-50%25-007acc?style=flat-square) | ![Node.js](https://img.shields.io/badge/Node.js-40%25-339933?style=flat-square)              | ![Angular](https://img.shields.io/badge/Angular-30%25-ff2d20?style=flat-square)     | ![wordpress](https://img.shields.io/badge/wordpress-90%25-06b6d4?style=flat-square) |
 
-<br>
+
 ## 🤝 Collaborating
 
 ### 🤝 I'm open to collaborating on interesting projects as a web developer
